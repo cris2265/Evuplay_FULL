@@ -1,0 +1,557 @@
+.login {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    position: absolute;
+    display: flex;   
+}
+.logo {
+    width: 15.9rem;
+    height: 9.4rem;
+    float: left;
+    margin-top: 14.2rem;
+    margin-left: 12.5rem;
+}
+.sign {
+    float: left;
+    margin-left: 2rem;
+    margin-top: 64.4rem; 
+    position: absolute;
+}
+.sign a {
+    color: white;
+}
+.sign button {
+    width: 37.4rem;
+    height: 5.6rem;
+    background-color: black;
+    color: white;
+    border-radius: 1.8rem;
+    font-weight: 700;
+    font-size: 2.4rem;
+    cursor: pointer;
+}
+.create {
+    float: left;
+    position: absolute;
+    margin-top: 71.6rem;
+    margin-left: 2rem;
+}
+.create button {
+    width: 37.4rem;
+    height: 5.6rem;
+    color: black;
+    border-radius: 1.8rem;
+    font-size: 2.3rem;
+    font-weight: 700;
+    cursor: pointer;
+}
+.need-help {
+    float: left;
+    margin-left: -12.5rem;
+    margin-top: 79rem;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2rem;
+    cursor: pointer;
+}
+.trans {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    position: absolute;
+    display: flex;
+}
+.flecha {
+    float: left;
+    position: absolute;
+    width: 6.8rem;
+    height: 2.3rem;
+    margin-top: 4.5rem;
+}
+.transa {
+    float: left;
+    position: absolute;
+    margin-top:4.2rem ;
+    margin-left: 12.9rem;
+    font-weight: 700;
+    font-size: 2rem;
+}
+.circulo {
+    float: left;
+    position: absolute;
+    width: 20.5rem;
+    height: 19.5rem;
+    margin-top: 10.5rem;
+    margin-left: 10.5rem;
+    background: white;
+    border: 0.92rem solid black;
+    border-radius: 36rem;
+}
+.tot {
+    float: left;
+    position: absolute;
+    margin-top: 6.3rem;
+    margin-left: 7.1rem;
+    font-size: 2rem;
+    font-weight: 400;
+}
+.circulo img {
+    float: left;
+    margin-top: 8.8rem;
+    margin-left: 3.3rem;
+}
+.num {
+    float: left;
+    position: absolute;
+    margin-top: 8.8rem;
+    margin-left: 6.9rem;
+    font-size: 2.9rem;
+    font-weight: 400;
+}
+.parte_2 {
+    float: left;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    margin-top: 33.5rem;
+}
+.icons {
+    float: left;
+    position: absolute;
+    width: 6.4rem;
+    height: 5.7rem;
+    margin-top: 3.9rem;
+    margin-left: 4rem;
+    border-radius: 0.6rem;
+    background-color: #E6E6E6;
+}
+.icons img {
+    float: left;
+    position: absolute;
+    margin-top: 0.5rem;
+    margin-left: -0.25rem;
+}
+.icons_2 {
+    float: left;
+    position: absolute;
+    width: 6.4rem;
+    height: 5.7rem;
+    margin-top: 3.9rem;
+    margin-left: 17.4rem;
+    background-color: #000;
+    border-radius: 0.6rem;
+    display: flex;
+    justify-content: center;
+}
+.icons_2 img {
+    float: left;
+    position: absolute;
+    width: 4.3rem;
+    height: 4.4rem;
+    margin-top: 0.8rem;
+}
+.icons_3 {
+    float: left;
+    position: absolute;
+    width: 6.4rem;
+    height: 5.7rem;
+    margin-top: 3.9rem;
+    margin-left: 30rem;
+    background-color: #E6E6E6;
+    border-radius: 0.6rem;
+    display: flex;
+    justify-content: center;
+}
+.icons_3 img{
+    float: left;
+    position: absolute;
+    width: 4.8rem;
+    height: 4.5rem;
+    margin-top: 0.5rem;
+}
+.parte_2 p {
+    float: left;
+    width: 6rem;
+    margin-top: 6.1rem;
+    display: flex;
+    justify-content: center;
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+.tions {
+    float: left;
+    position: absolute;
+    width: 13.6rem;
+    height: 3rem;
+    margin-top: 13.5rem;
+    margin-left: 2.3rem;
+    font-size: 2rem;
+    font-weight: 700;
+}
+.caja1 {
+    width: 5.3rem;
+    height: 5.3rem;
+    float: left;
+    position: absolute;
+    margin-top: 17.6rem;
+    margin-left: 3.8rem;
+    background-color: #E6E6E6;
+    display: flex;
+    justify-content: center;
+}
+.caja1 img {
+    width: 5.6rem;
+    height: 3.6rem;
+    margin-top: 0.8rem;
+}
+.shop{
+    float: left;
+    position: absolute;
+    margin-top: 18.4rem;
+    margin-left: 10.8rem;
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+.tim {
+    float: left;
+    position: absolute;
+    margin-top: 20rem;
+    margin-left: 10.8rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+.prec {
+    float: left;
+    position: absolute;
+    margin-top: 18.5rem;
+    margin-left: 32.1rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+.linea {
+    float: left;
+    position: absolute;
+    width: 30.2rem;
+    border: 1px solid black;
+    margin-top: 25.1rem;
+    margin-left: 4.2rem;
+    opacity: 0.5;
+}
+.caja2 {
+    width: 5.3rem;
+    height: 5.3rem;
+    float: left;
+    position: absolute;
+    margin-top: 26.6rem;
+    margin-left: 3.8rem;
+    background-color: #E6E6E6;
+    display: flex;
+    justify-content: center;
+}
+.caja2 img {
+    width: 5.9rem;
+    height: 3.5rem;
+    margin-top: 1.2rem;
+}
+.cosa1 {
+    float: left;
+    position: absolute;
+    margin-top: 27.1rem;
+    margin-left: 10.8rem;
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+.cosa2 {
+    float: left;
+    position: absolute;
+    margin-top: 28.7rem;
+    margin-left: 10.8rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+.cosa3 {
+    float: left;
+    position: absolute;
+    margin-top: 27.4rem;
+    margin-left: 32.1rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+.linea2 {
+    float: left;
+    position: absolute;
+    width: 30.2rem;
+    border: 1px solid black;
+    margin-top: 33.7rem;
+    margin-left: 4.2rem;
+    opacity: 0.5;
+}
+.caja3 {
+    width: 5.3rem;
+    height: 5.3rem;
+    float: left;
+    position: absolute;
+    margin-top: 34.9rem;
+    margin-left: 3.8rem;
+    background-color: #E6E6E6;
+    display: flex;
+    justify-content: center;
+}
+.caja3 img {
+    width: 5.9rem;
+    height: 3.5rem;
+    margin-top: 0.9rem;
+}
+.but1 {
+    float: left;
+    position: absolute;
+    margin-top: 35.8rem;
+    margin-left: 10.8rem;
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+.but2 {
+    float: left;
+    position: absolute;
+    margin-top: 37.6rem;
+    margin-left: 10.8rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+.but3 {
+    float: left;
+    position: absolute;
+    margin-top: 36.3rem;
+    margin-left: 32.1rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+.linea3 {
+    float: left;
+    position: absolute;
+    width: 30.2rem;
+    border: 1px solid black;
+    margin-top: 41.6rem;
+    margin-left: 4.2rem;
+    opacity: 0.5;
+}
+.caja4 {
+    width: 5.3rem;
+    height: 5.3rem;
+    float: left;
+    position: absolute;
+    margin-top: 43.9rem;
+    margin-left: 3.8rem;
+    background-color: #E6E6E6;
+    display: flex;
+    justify-content: center;
+}
+.caja4 img {
+    width: 44rem;
+    height: 3.1rem;
+    margin-top: 0.9rem;
+}
+.novo1 {
+    float: left;
+    position: absolute;
+    margin-top: 44.4rem;
+    margin-left: 10.8rem;
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+.novo2{
+    float: left;
+    position: absolute;
+    margin-top: 46.1rem;
+    margin-left: 10.8rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+.novo3 {
+    float: left;
+    position: absolute;
+    margin-top: 45.1rem;
+    margin-left: 32.1rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+.cre {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    position: absolute;
+    display: flex;
+}
+.aco {
+    float: left;
+    position: absolute;
+    margin-top: 26rem;
+    margin-left: 2rem;
+    font-size: 2.6rem;
+    font-weight: 700;
+}
+.name {
+    float: left;
+    position: absolute;
+    margin-top: 33.9rem;
+    margin-left: 2rem;
+    font-size: 2rem;
+    font-weight: 700;
+    opacity: 0.6;
+}
+.ing{
+    float: left;
+    position: absolute;
+    margin-top: 37.4rem;
+    margin-left: 2.3rem;
+    font-size: 1.5rem;
+    font-weight: 400;
+    width: 20.5rem;
+    height: 2.7rem;
+    border: none;
+}
+.lin {
+    float: left;
+    position: absolute;
+    width: 41.4rem;
+    margin-top: 40.8rem;
+    border: 1px solid black;
+    opacity: 0.5;
+}
+.ema {
+    float: left;
+    position: absolute;
+    margin-top: 43.3rem;
+    margin-left: 2.3rem;
+    font-size: 2rem;
+    font-weight: 700;
+    opacity: 0.6;
+}
+.il {
+    float: left;
+    position: absolute;
+    margin-top: 47.2rem;
+    margin-left: 2.3rem;
+    width: 20.5rem;
+    height: 2.7rem;
+    font-size: 1.5rem;
+    border: none;
+    font-weight: 400;
+}
+.lin2 {
+    float: left;
+    position: absolute;
+    width: 41.4rem;
+    margin-top: 49.9rem;
+    border: 1px solid black;
+    opacity: 0.5;
+}
+.pas {
+    float: left;
+    position: absolute;
+    margin-top: 51.1rem;
+    margin-left: 2.3rem;
+    font-size: 2rem;
+    font-weight: 700;
+    opacity: 0.6;
+}
+.word {
+    float: left;
+    position: absolute;
+    margin-top: 55.4rem;
+    margin-left: 2.3rem;
+    width: 20.5rem;
+    height: 2.7rem;
+    font-size: 1.5rem;
+    border: none;
+    font-weight: 400;
+}
+.lin3 {
+    float: left;
+    position: absolute;
+    width: 41.4rem;
+    margin-top: 57.9rem;
+    border: 1px solid black;
+    opacity: 0.5;
+}
+.rep {
+    float: left;
+    position: absolute;
+    margin-top: 58.9rem;
+    margin-left: 2.3rem;
+    font-size: 2rem;
+    font-weight: 700;
+    opacity: 0.6;
+}
+.eat {
+    float: left;
+    position: absolute;
+    margin-top: 63.9rem;
+    margin-left: 2.3rem;
+    width: 20.5rem;
+    height: 2.7rem;
+    font-size: 1.5rem;
+    border: none;
+    font-weight: 400;
+}
+.lin4 {
+    float: left;
+    position: absolute;
+    width: 41.4rem;
+    margin-top: 67.2rem;
+    border: 1px solid black;
+    opacity: 0.5;
+}
+.bot {
+    float: left;
+    position: absolute;
+    margin-top: 69.5rem;
+    margin-left: 2.3rem;
+    width: 1.8rem;
+    height: 1.8rem;
+}
+.text {
+    float: left;
+    position: absolute;
+    margin-top: 69.5rem;
+    margin-left: 5.2rem;
+    font-size: 1.1rem;
+    font-weight: 400;
+    color: black;
+    opacity: 0.5;
+}
+.signin {
+    float: left;
+    position: absolute;
+    margin-top: 75rem;
+    margin-left: 1.7rem;
+}
+.signin a{
+    color: #ffffff;
+}
+.signin button {
+    width: 37.9rem;
+    height: 6.1rem;
+    background-color: black;
+    border-radius: 2.5rem;
+    font-size: 2rem;
+    font-weight: 700;
+    cursor: pointer;
+}
+.have {
+    float: left;
+    position: absolute;
+    margin-top: 83rem;
+    margin-left: 9.5rem;
+    font-size: 1.33rem;
+    font-weight: 400;
+}
+.newcount {
+    float: left;
+    position: absolute;
+    margin-top: 82.8rem;
+    margin-left: 28.5rem;
+    font-size: 1.53rem;
+    font-weight: 700;
+}
